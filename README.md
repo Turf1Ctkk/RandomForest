@@ -1,5 +1,4 @@
 # RandomForest
-RandomForest for website experience of user
 --
 ## Usage
 1.  Build the directory as main.py's comment
